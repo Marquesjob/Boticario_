@@ -1,3 +1,3 @@
  OINK! 
 
-- Programa para automatizar o processo de cadastros e controlar as finanças recorrentes a Boticário
+- Programa para automatizar o processo de cadastros e controlar as finanças 
